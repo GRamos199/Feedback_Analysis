@@ -1,0 +1,26 @@
+id,timestamp,customer_id,product_id,rating,feedback_text,category
+1,2024-01-14T10:15:00Z,CUST393,PROD992,5,Super fast delivery!,Delivery
+2,2024-01-14T10:30:00Z,CUST158,PROD972,4,Excellent support team!,Product Quality
+3,2024-01-14T10:45:00Z,CUST824,PROD788,5,Packaging could be better,Product Quality
+4,2024-01-14T11:00:00Z,CUST227,PROD169,4,Super fast delivery!,Pricing
+5,2024-01-14T11:15:00Z,CUST205,PROD216,3,Helpdesk was very responsive,Customer Support
+6,2024-01-14T11:30:00Z,CUST554,PROD883,5,Interface is confusing,Pricing
+7,2024-01-14T11:45:00Z,CUST281,PROD560,1,Interface is confusing,Delivery
+8,2024-01-14T12:00:00Z,CUST994,PROD569,4,Interface is confusing,Pricing
+9,2024-01-14T12:15:00Z,CUST470,PROD710,5,Super fast delivery!,Usability
+10,2024-01-14T12:30:00Z,CUST878,PROD666,1,Not satisfied with the quality,Usability
+11,2024-01-14T12:45:00Z,CUST597,PROD138,5,Interface is confusing,Usability
+12,2024-01-14T13:00:00Z,CUST814,PROD501,5,Not satisfied with the quality,Customer Support
+13,2024-01-14T13:15:00Z,CUST292,PROD849,3,Too expensive for the features offered,Product Quality
+14,2024-01-14T13:30:00Z,CUST777,PROD118,1,Too expensive for the features offered,Pricing
+15,2024-01-14T13:45:00Z,CUST470,PROD886,2,"Great product, but delivery was slow",Delivery
+16,2024-01-14T14:00:00Z,CUST160,PROD581,2,Helpdesk was very responsive,Usability
+17,2024-01-14T14:15:00Z,CUST473,PROD686,2,"Great product, but delivery was slow",Pricing
+18,2024-01-14T14:30:00Z,CUST431,PROD796,4,Excellent support team!,Usability
+19,2024-01-14T14:45:00Z,CUST242,PROD507,4,Too expensive for the features offered,Customer Support
+20,2024-01-14T15:00:00Z,CUST717,PROD163,2,Excellent support team!,Delivery
+21,2024-01-14T15:15:00Z,CUST488,PROD638,1,Not satisfied with the quality,Product Quality
+22,2024-01-14T15:30:00Z,CUST124,PROD959,3,Helpdesk was very responsive,Pricing
+23,2024-01-14T15:45:00Z,CUST547,PROD468,5,Super fast delivery!,Product Quality
+24,2024-01-14T16:00:00Z,CUST178,PROD860,4,Excellent support team!,Product Quality
+25,2024-01-14T16:15:00Z,CUST857,PROD470,5,"Great product, but delivery was slow",Pricing

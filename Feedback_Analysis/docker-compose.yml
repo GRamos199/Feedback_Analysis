@@ -1,0 +1,13 @@
+# docker-compose.yml
+
+version: '3.8'
+services:
+  feedback_analysis:
+    build:
+      context: .
+    volumes:
+      - ./data:/app/data  # Map local data folder to container
+      - ./output:/app/output  # Map local output folder to container
+      - ./db:/app/db  # Map local database folder to container
+    container_name: feedback_analysis_container
+    command: python main.py
